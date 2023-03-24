@@ -4,6 +4,7 @@
     font-size: 10px;
     text-align: center;
     padding: 20px;
+	border-top-width:2px;
     border: 2px solid black;
 	display: inline-block;
 }
